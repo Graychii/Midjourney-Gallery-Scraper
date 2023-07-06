@@ -15,7 +15,10 @@ Right click and press Inspect or press F12
 
 Go to Applications Tab And click Cookies
 
+Reload the page <== 
+
 Copy '__cf_bm' Value into '__cf_bm.txt'
+
 
 ## Running
 
