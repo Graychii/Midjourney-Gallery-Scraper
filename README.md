@@ -34,6 +34,6 @@ After it's done run
 py main.py 
 ```
 
-##To do
+## To do
 
 Automating cookie retreival
